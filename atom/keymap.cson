@@ -1,0 +1,4 @@
+ 'atom-text-editor':
+   'ctrl-shift-l': 'editor:delete-line'
+   'ctrl-shift-a': 'command-palette:toggle'
+   'ctrl-n': 'fuzzy-finder:toggle-file-finder'
